@@ -1,5 +1,13 @@
 ### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Uditanshu+Kumar....;Nice+to+meet+you!&center=true&size=20">
+  </a>
+</h1>
+
 <p>A passionate Full Stack Web developer from India.My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</p>
+
+
 <!--
 **db648/db648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
