@@ -11,15 +11,13 @@
 <img align="right" alt="GIF" src="https://github.com/db648/db648/blob/main/coding.gif?raw=true" width="400" height="250" />
 
 <p align="left">
-- 👨‍💻 Check my projects and portfolio [DurgaBhavani](https://my-portfolio-durga.vercel.app/)
 
-- 🌱 I’m currently learning **React JS and Data Structures & Algorithms.**
-
-- <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/> I’m looking to collaborate on OpenSource Projects </p> 
-
-- 📝 I regularly write articles on [https://medium.com/@vdbhavani.648](https://medium.com/@vdbhavani.648)
-- 📫 How to reach me **vdbhavani.648@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wwsjw7WdCd3U_UXIDFfjT9YFM1llAvzJ/view?usp=sharing)
+- 👨‍💻 Check my projects and portfolio **[DurgaBhavani](https://my-portfolio-durga.vercel.app/)**
+- 🌱 I’m currently learning **ReactJS, Redux and Data Structures & Algorithms.**
+- 💬 Ask me about **JavaScript**
+- 📝 I regularly write articles on [medium](https://medium.com/@vdbhavani.648)
+- 📫 How to reach me [Gmail](vdbhavani.648@gmail.com)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Wwsjw7WdCd3U_UXIDFfjT9YFM1llAvzJ/view?usp=sharing)
 </p>
 <br><br>
 <hr>
