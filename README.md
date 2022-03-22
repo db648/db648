@@ -11,7 +11,7 @@
 <img align="right" alt="GIF" src="https://github.com/db648/db648/blob/main/coding.gif?raw=true" width="400" height="250" />
 
 <p align="left">
-- 👨‍💻 Check my projects and portfolio **[DurgaBhavani](https://my-portfolio-durga.vercel.app/)**
+- 👨‍💻 Check my projects and portfolio [DurgaBhavani](https://my-portfolio-durga.vercel.app/)
 
 - 🌱 I’m currently learning **React JS and Data Structures & Algorithms.**
 
@@ -19,6 +19,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@vdbhavani.648](https://medium.com/@vdbhavani.648)
 - 📫 How to reach me **vdbhavani.648@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wwsjw7WdCd3U_UXIDFfjT9YFM1llAvzJ/view?usp=sharing)
 </p>
 <br><br>
 <hr>
