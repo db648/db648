@@ -8,18 +8,19 @@
 
 <br>
 <hr>
-<img align="right" alt="GIF" src="https://github.com/db648/db648/blob/main/coding.gif?raw=true" width="400" height="250" />
+<img align="right" alt="GIF" src="https://github.com/db648/db648/blob/main/coding.gif?raw=true" width="400" height="230" />
 
 <p align="left">
 
 - 👨‍💻 Check my projects and portfolio **[DurgaBhavani](https://my-portfolio-durga.vercel.app/)**
-- 🌱 I’m currently learning **ReactJS, Redux and Data Structures & Algorithms.**
+- 🌱 I’m currently learning **React and Data Structures & Algorithms.**
 - 💬 Ask me about **JavaScript**
 - 📝 I regularly write articles on [medium](https://medium.com/@vdbhavani.648)
 - 📫 How to reach me [Gmail](vdbhavani.648@gmail.com)
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Wwsjw7WdCd3U_UXIDFfjT9YFM1llAvzJ/view?usp=sharing)
 </p>
 <br><br>
+</br>
 <hr>
 
 <h2 align="center">Tech Stack:</h2>
