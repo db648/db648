@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **React and Data Structures & Algorithms.**
 - 💬 Ask me about **JavaScript**
 - 📝 I regularly write articles on [medium](https://medium.com/@vdbhavani.648)
-- 📫 How to reach me [Gmail](vdbhavani.648@gmail.com)
+- 📫 How to reach me [vdbhavani.648@gmail.com](http://www.gmail.com/)
 - 📄 Know about my experiences [CV](https://drive.google.com/drive/folders/1Q_d5Ls3OwfKSfJbdNPJNyKWj0Hv9M1NR?usp=sharing)
 </p>
 <br><br>
